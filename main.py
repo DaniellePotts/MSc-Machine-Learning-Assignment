@@ -1,1 +1,4 @@
-print("machine learning assignment 2");
+from importData import *
+
+result = readCsv("dataTest.csv")
+print(result)

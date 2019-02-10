@@ -1,0 +1,1 @@
+filePath = "/Users/{Name}/Documents/Uni/Machine Learning and Data Analytics/data/"
